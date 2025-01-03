@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = ssh://npc_test@172.232.118.182/home/npci_test/dvc_storage
